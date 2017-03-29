@@ -2,3 +2,7 @@
  * WordCamp AVL 2017 Styles 
 **/
 
+#navbar,
+.navbar {
+  background: #000;
+}
