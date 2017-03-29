@@ -2,6 +2,10 @@
  * WordCamp AVL 2017 Styles 
 **/
 
+button, input[type="submit"], input[type="button"], input[type="reset"], a.button, .widget a.button {
+  border-radius: 0;
+}
+
 #navbar,
 .navbar {
   background: #000 !important;
