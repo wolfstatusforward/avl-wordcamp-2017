@@ -3453,8 +3453,8 @@ body.single {
 
       .site-title {
         background-image: url(http://2017.asheville.wordcamp.org/files/2017/03/WCAVL2017-logo@2x.png);
-        height: 91px;
-        width: 280px;
+        /*height: 91px;
+        width: 280px;*/
       }
 
       .site-description {
